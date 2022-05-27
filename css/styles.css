@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Book Antiqua, Palatino, Palatino Linotype, Palatino LT STD, Ge;
+  color: #40514E
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+display: inline-block;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 80px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  display: inline-block;
+  line-height: 2;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  display: inline-block;
+  line-height: 2;
+}
+
+p {
+  font-size: 16px;
+  font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+.web-design {
+  width: 25%;
+  float: left;
+margin-right: 40px;
+}
+
+.programming {
+  width: 25%;
+  float: right;
+
+}
+hr {
+  border-style: dotted;
+  border-bottom: none;
+  width: 10% ;
+  border-width: 5px;
+  color: grey;
+
+}
+
+.middle-container {
+  padding-top: 50px;
+}
+
+.bottom-container {
+background-color:  #66BFBF;
+padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  top: 300px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 40px auto 40px auto;
+}
+a{
+  color: #11999e;
+  text-decoration: none;
+  margin: 20px 10px;
+
+}
+a:hover{
+  color: #eaf6f6;
+}
+.copyright{
+  font-size: 0.75rem;
+  color: #eaf6f6;
+
+}
+
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
